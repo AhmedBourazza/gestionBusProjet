@@ -20,15 +20,23 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
-        tools:layout_editor_absoluteX="60dp"
-        tools:layout_editor_absoluteY="111dp" />
+        tools:layout_editor_absoluteX="160dp"
+        tools:layout_editor_absoluteY="58dp" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
-        tools:layout_editor_absoluteX="57dp"
-        tools:layout_editor_absoluteY="225dp" />
+        tools:layout_editor_absoluteX="225dp"
+        tools:layout_editor_absoluteY="163dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="71dp"
+        tools:layout_editor_absoluteY="143dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
